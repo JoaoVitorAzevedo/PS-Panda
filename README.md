@@ -52,7 +52,7 @@ A análise foi guiada por três perguntas centrais, e as principais descobertas 
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/JoaoVitorAzevedo/PS-Panda.git](https://github.com/JoaoVitorAzevedo/PS-Panda.git)
+    git clone https://github.com/JoaoVitorAzevedo/PS-Panda.git
     ```
 2.  Instale as dependências necessárias.
     ```bash
